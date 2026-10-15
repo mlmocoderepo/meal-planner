@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "macroplanner",
-    "slug": "macroplanner",
+    "name": "mealplanner",
+    "slug": "mealplanner",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -32,7 +32,8 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
         }
-      ]
+      ],
+      "@react-native-vector-icons/ant-design"
     ],
     "experiments": {
       "typedRoutes": true,
